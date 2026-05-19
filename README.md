@@ -57,7 +57,7 @@
 <div class="container">
 
 <h1>Roller Vibes MX La Paz</h1>
-
+<img src="logo.png" alt="Logo Roller Vibes" style="width:180px; display:block; margin:0 auto 20px auto; border-radius:20px;">
 <p>
 Bienvenido a Roller Vibes MX La Paz, club de patinaje recreativo dirigido principalmente a niños y niñas, adolescentes y adultos que quieran aprender a patinar.
 </p>

@@ -1,0 +1,27 @@
+{
+  "id": "/",
+  "name": "Roller Vibes MX La Paz",
+  "short_name": "Roller Vibes",
+  "description": "App de registro, horarios, pagos, cartas responsivas y contacto para alumnos de Roller Vibes MX La Paz.",
+  "start_url": "/?source=pwa",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone", "minimal-ui"],
+  "orientation": "portrait",
+  "lang": "es-MX",
+  "dir": "ltr",
+  "theme_color": "#06b6d4",
+  "background_color": "#f8fafc",
+  "categories": ["sports", "education", "lifestyle"],
+  "prefer_related_applications": false,
+  "icons": [
+    {"src": "/assets/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "/assets/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "/assets/maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable"},
+    {"src": "/assets/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ],
+  "screenshots": [
+    {"src": "/assets/screenshot-mobile.png", "sizes": "1080x1920", "type": "image/png", "form_factor": "narrow", "label": "Pantalla principal de Roller Vibes MX La Paz"},
+    {"src": "/assets/screenshot-wide.png", "sizes": "1280x720", "type": "image/png", "form_factor": "wide", "label": "Vista amplia de Roller Vibes MX La Paz"}
+  ]
+}
